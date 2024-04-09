@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Lkobtseva/Lkobtseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+Привет! Меня зовут Лиза, я фронтенд разработчица👩🏽‍💻 
+Мой профессиональный опыт включает в себя разработку веб-сайтов и приложений с использованием различных технологий и инструментов:
 
-Here are some ideas to get you started:
+- JavaScript 
+- HTML5
+- CSS3
+- Git
+- ReactJS
+- npm
+- REST API
+- JSON API
+- MySQL
+- Node.js
+- Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡Стремлюсь к улучшению своих навыков и расширению своего опыта.
+🌱Cейчас я ищу работу, [вот мое резюме](https://drive.google.com/file/d/1yngaY6SPx4iPjvXk6-64TqS81keuoNhA/view?usp=sharing)
+
+## 📲Contacts:
+elizavetakobtsevaa@yandex.ru
+https://t.me/baeli1
+
+
+
+
+
