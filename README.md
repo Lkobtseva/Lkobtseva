@@ -17,11 +17,11 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Lkobtseva/Lkobtseva)
 [![Express.js](https://img.shields.io/badge/-Express.js-yellow?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Lkobtseva/Lkobtseva)
 
-💡Стремлюсь к улучшению своих навыков и расширению своего опыта.
+💡 Стремлюсь к улучшению своих навыков и расширению своего опыта.
 
-🌱Cейчас я ищу работу, [вот мое резюме](https://drive.google.com/file/d/1yngaY6SPx4iPjvXk6-64TqS81keuoNhA/view?usp=sharing)
+🌱 Cейчас я ищу работу, [вот мое резюме](https://drive.google.com/file/d/1yngaY6SPx4iPjvXk6-64TqS81keuoNhA/view?usp=sharing)
 
-## 📲Contacts:
+## 📲 Contacts:
 elizavetakobtsevaa@yandex.ru
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40baeli1-blue?style=for-the-badge&logo=telegram)](https://t.me/baeli1)
