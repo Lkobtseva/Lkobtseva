@@ -19,8 +19,6 @@
 
 💡 Стремлюсь к улучшению своих навыков и расширению своего опыта.
 
-🌱 Cейчас я ищу работу, [вот мое резюме](https://drive.google.com/file/d/1yngaY6SPx4iPjvXk6-64TqS81keuoNhA/view?usp=sharing)
-
 ## 📲 Contacts:
 elizavetakobtsevaa@yandex.ru
 
