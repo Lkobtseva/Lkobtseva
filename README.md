@@ -1,10 +1,3 @@
-### Hi there 👋
-
-## About me:
-Привет! Меня зовут Лиза, я фронтенд разработчица👩🏽‍💻 
-
-Мой профессиональный опыт включает в себя разработку веб-сайтов и приложений с использованием различных технологий и инструментов:
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Lkobtseva/Lkobtseva)
 [![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Lkobtseva/Lkobtseva)
 [![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Lkobtseva/Lkobtseva)
@@ -16,8 +9,6 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Lkobtseva/Lkobtseva)
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Lkobtseva/Lkobtseva)
 [![Express.js](https://img.shields.io/badge/-Express.js-yellow?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Lkobtseva/Lkobtseva)
-
-💡 Стремлюсь к улучшению своих навыков и расширению своего опыта.
 
 ## 📲 Contacts:
 elizavetakobtsevaa@yandex.ru
